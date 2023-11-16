@@ -86,21 +86,6 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
 main section {
     margin-bottom: 25px;
     padding: 50px;
@@ -121,6 +106,8 @@ aside section {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    margin-bottom: 32px;
+    color: #ffffff;
 }
 
 aside section h3 {
@@ -134,8 +121,6 @@ aside section h3 {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h4 {
     font-size: 20px;
 }
+
