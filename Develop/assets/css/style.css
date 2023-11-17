@@ -100,7 +100,7 @@ main section h2 {
 /*ASIDE SECTION*/
 .benefits {
     margin-right: 20px;
-    padding: 20px;
+    padding: 0px;
     clear: both;
     float: right;
     width: 20%;
@@ -116,9 +116,15 @@ aside section img {
 aside section {
     display: block;
     margin: 10px auto;
+    padding: 5px;
     margin-bottom: 10px;
-    max-width: 150px;
+    max-width: 250px;
     color: #ffffff;
+}
+aside section h3 {
+    margin-top: 20px;
+    font-size:25px;
+    text-align:center;
 }
 
 /*FOOTER SECTION*/ 
