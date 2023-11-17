@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -97,6 +97,11 @@ main section {
 
 main section img {
     max-height: 200px;
+}
+
+main section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 aside section img {
