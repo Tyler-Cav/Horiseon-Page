@@ -10,7 +10,9 @@
 
 Review the following screenshot below that is deployed on GitHub pages.
 
-![Alt text](./Assets/Deployed%20Webpage.PNG)
+![Alt text](<Assets/Deployed Webpage part 1.PNG>)
+![Alt text](<Assets/Deployed Page Part 2.PNG>)
+
 
 ## Credits
 
